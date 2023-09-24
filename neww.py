@@ -1,4 +1,5 @@
-a=24
+
+a=30
 b=23
 print("HELLO EVERYONE")
 add=a+b
